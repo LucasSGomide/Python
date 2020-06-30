@@ -29,6 +29,6 @@ Aprendendo assuntos como: Algoritmos, estruturas de dados, fundamentos, orienta�
 </ul>
 <hr />
 
-## Legenda:
+#### Legenda:
 ✅ <strong>Conteúdo já estudado.</strong> <br />
 ❌ <strong>Conteúdo a estudar.</strong> <br />
